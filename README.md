@@ -22,7 +22,7 @@ This project analyzes teen behavioral and mental health indicators using an inte
 - `teen-mental-health-dataset.xlsx` – dataset used for analysis
 
 ## Dashboard Preview
-Add your dashboard screenshot here after uploading it.
+![Dashboard Preview](Dashboard%20Preview.png)
 
 ## Author
 Nidhi Choudhary
